@@ -1,0 +1,12 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- HU-01: Registrar una denuncia desde el celular con foto y ubicación.
+- HU-02: Visualizar todas las solicitudes en un tablero con estados.
+
+2. ¿Por qué son las más importantes?
+Porque son la base del sistema. Primero necesitamos que los ciudadanos puedan reportar fácilmente y que el equipo de veeduría tenga dónde organizar y hacer seguimiento. Sin registro y sin visualización, el resto de automatizaciones no funcionarían.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+Una tarea está terminada cuando cumple estos 3 criterios:
+- Funciona: El usuario puede usar la función completa sin errores.
+- Fue probada: Se validó con al menos 1 caso real y el equipo lo aprobó.
+- Está documentada: Quedó registrada en el tablero y se notificó a los interesados.

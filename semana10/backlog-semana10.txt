@@ -1,0 +1,5 @@
+Como ciudadano, quiero registrar una denuncia de veeduría desde mi celular con foto y ubicación, para que el equipo pueda darle seguimiento sin que tenga que desplazarme.
+
+Como líder del equipo de veeduría, quiero visualizar todas las solicitudes en un tablero con estados "Pendiente, En proceso, Resuelta", para priorizar las más urgentes.
+
+Como miembro de la comunidad, quiero recibir una notificación automática por Telegram cuando mi solicitud cambie de estado, para saber en qué va el proceso

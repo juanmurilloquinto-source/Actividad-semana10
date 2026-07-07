@@ -1,0 +1,9 @@
+Las metodologías ágiles, la automatización y canales como Telegram son clave para organizar mejor una comunidad y fortalecer la participación ciudadana.
+
+Con metodologías ágiles podemos trabajar por iteraciones y priorizar desde el backlog las problemáticas más urgentes. Esto permite entregar soluciones pequeñas pero constantes, y adaptarnos según lo que la comunidad necesita.
+
+La automatización con n8n nos ayuda a reducir tiempos y errores. Tareas como notificar una nueva denuncia o generar reportes se hacen solas, dejando al equipo más tiempo para el análisis.
+
+Telegram funciona como un canal directo para informar a los ciudadanos. Enviar actualizaciones del estado de una solicitud genera transparencia y hace que la gente sienta que su voz es escuchada.
+
+En resumen, al unir agilidad, automatización y comunicación, logramos procesos más ordenados, rápidos y confiables. Así la veeduría ciudadana deja de ser lenta y se vuelve participativa y efectiva.

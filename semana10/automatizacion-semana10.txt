@@ -1,0 +1,23 @@
+FLUJO DE AUTOMATIZACIÓN: Notificación de nueva denuncia por Telegram usando n8n
+
+Descripción del flujo:
+Cuando un ciudadano registra una denuncia en el formulario web, n8n toma los datos y envía automáticamente una alerta al grupo de Telegram del equipo de veeduría.
+
+1. ¿Qué evento activa el flujo?
+El evento que activa el flujo es "Nueva denuncia registrada" en el formulario de la plataforma comunitaria. n8n detecta la nueva entrada en la base de datos o Google Sheet.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría este mensaje al grupo:
+"ALERTA NUEVA DENUNCIA
+ID: #1024
+Tipo: Falla en obra pública
+Ubicación: Barrio Centro, Istmina
+Fecha: 2026-04-25 08:30
+Ver detalles: [enlace al dashboard]"
+
+3. ¿Qué información NO debería enviarse por seguridad?
+No se debe enviar:
+- Nombre completo, cédula o teléfono del denunciante si pidió anonimato
+- Fotos con rostros de personas o placas de vehículos
+- Dirección exacta de la vivienda del denunciante
+Solo se envía información general necesaria para que el equipo haga la veeduría.
